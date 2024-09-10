@@ -1,1 +1,1 @@
-  Olá esse projeto ensina a voce a usar o Git
+  Projeto calculadora inicial
